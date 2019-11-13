@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Medicine A",
+    "dosage": 2,
+    "duration": 2
+  },  {
+    "name": "Medicine B",
+    "dosage": 3,
+    "duration": 4
+  },{
+    "name": "Medicine C",
+    "dosage": 1,
+    "duration": 1
+  },  {
+    "name": "Medicine D",
+    "dosage": 2,
+    "duration": 4
+  },{
+    "name": "Medicine E",
+    "dosage": 2,
+    "duration": 2
+  },  {
+    "name": "Medicine F",
+    "dosage": 2,
+    "duration": 9
+  },{
+    "name": "Medicine G",
+    "dosage": 3,
+    "duration": 3
+  },  {
+    "name": "Medicine H",
+    "dosage": 2,
+    "duration": 2
+  },{
+    "name": "Medicine I",
+    "dosage": 2,
+    "duration": 2
+  },  {
+    "name": "Medicine J",
+    "dosage": 2,
+    "duration": 2
+  },{
+    "name": "Medicine K",
+    "dosage": 2,
+    "duration": 2
+  },  {
+    "name": "Medicine L",
+    "dosage": 2,
+    "duration": 2
+  },{
+    "name": "Medicine N",
+    "dosage": 2,
+    "duration": 2
+  },  {
+    "name": "Medicine O",
+    "dosage": 2,
+    "duration": 2
+  },{
+    "name": "Medicine P",
+    "dosage": 2,
+    "duration": 2
+  },  {
+    "name": "Medicine Q",
+    "dosage": 2,
+    "duration": 2
+  },{
+    "name": "Medicine R",
+    "dosage": 2,
+    "duration": 2
+  },  {
+    "name": "Medicine S",
+    "dosage": 2,
+    "duration": 2
+  },{
+    "name": "Medicine T",
+    "dosage": 2,
+    "duration": 2
+  },  {
+    "name": "Medicine U",
+    "dosage": 2,
+    "duration": 2
+  },{
+    "name": "Medicine V",
+    "dosage": 2,
+    "duration": 2
+  },  {
+    "name": "Medicine W",
+    "dosage": 2,
+    "duration": 2
+  }
+]
